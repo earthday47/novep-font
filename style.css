@@ -1,0 +1,109 @@
+@font-face {
+	font-family: 'novep-icon';
+	src:url('fonts/novep-icon.eot?846e7d');
+	src:url('fonts/novep-icon.eot?#iefix846e7d') format('embedded-opentype'),
+		url('fonts/novep-icon.woff?846e7d') format('woff'),
+		url('fonts/novep-icon.ttf?846e7d') format('truetype'),
+		url('fonts/novep-icon.svg?846e7d#novep-icon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="novep-icon-"], [class*=" novep-icon-"] {
+	font-family: 'novep-icon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.novep-icon-add-or-expand:before {
+	content: "\e600";
+}
+.novep-icon-add-person-selected:before {
+	content: "\e601";
+}
+.novep-icon-add-person:before {
+	content: "\e602";
+}
+.novep-icon-check:before {
+	content: "\e603";
+}
+.novep-icon-close:before {
+	content: "\e604";
+}
+.novep-icon-color-selected:before {
+	content: "\e605";
+}
+.novep-icon-color:before {
+	content: "\e606";
+}
+.novep-icon-comment-blank:before {
+	content: "\e607";
+}
+.novep-icon-comment-deselected:before {
+	content: "\e608";
+}
+.novep-icon-comment-selected:before {
+	content: "\e609";
+}
+.novep-icon-edit:before {
+	content: "\e60a";
+}
+.novep-icon-export-selected:before {
+	content: "\e60b";
+}
+.novep-icon-export:before {
+	content: "\e60c";
+}
+.novep-icon-facebook:before {
+	content: "\e60d";
+}
+.novep-icon-flickr:before {
+	content: "\e60e";
+}
+.novep-icon-flipboard:before {
+	content: "\e60f";
+}
+.novep-icon-instagram:before {
+	content: "\e610";
+}
+.novep-icon-left:before {
+	content: "\e611";
+}
+.novep-icon-linkedin:before {
+	content: "\e612";
+}
+.novep-icon-minimize:before {
+	content: "\e613";
+}
+.novep-icon-pinterest:before {
+	content: "\e614";
+}
+.novep-icon-planned-content:before {
+	content: "\e615";
+}
+.novep-icon-right:before {
+	content: "\e616";
+}
+.novep-icon-trash-selected:before {
+	content: "\e617";
+}
+.novep-icon-trash:before {
+	content: "\e618";
+}
+.novep-icon-twitter:before {
+	content: "\e619";
+}
+.novep-icon-website:before {
+	content: "\e61a";
+}
+.novep-icon-youtube:before {
+	content: "\e61b";
+}
